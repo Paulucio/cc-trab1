@@ -1,7 +1,3 @@
-Student: Leonardo Santos Paulucio
-
-Teacher: Eduardo Zambom
-
 #Objective#
 - Making a scanner for C-Minus language
 
@@ -10,11 +6,18 @@ Teacher: Eduardo Zambom
 - Flex
 
 #Compiling#
-```
-~$ make
-```
+
+  - On linux terminal, make sure you are in project folder
+  
+    ```
+    ~$ make
+    ```
 
 #Run#
-```
-~$ ./trab1
-```
+
+  - On linux terminal,make sure you are in project folder
+
+    ```
+    ~$ ./trab1
+    ```
+
