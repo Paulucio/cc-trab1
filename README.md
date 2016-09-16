@@ -1,6 +1,6 @@
-Aluno: Leonardo Santos Paulucio
+Student: Leonardo Santos Paulucio
 
-Professor: Eduardo Zambom
+Teacher: Eduardo Zambom
 
 #Objective#
 - Making a scanner for C-Minus language
